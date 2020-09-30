@@ -7,7 +7,7 @@ library(dplyr)
 library(magrittr)
 library(lubridate)
 library(readr)
-
+#okkkk Comit
 
 options(shiny.maxRequestSize=10000000000*1024^2) #pour les data du grande taille
 
